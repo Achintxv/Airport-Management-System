@@ -9,6 +9,5 @@ schedules.
 Key features included:
 1. Flight Scheduling: Scheduling of flights, managing arrivals and departures, and updating flight statuses in
 real-time.
-
 2.User-Friendly Interface: Designed a user-friendly interface for airport staff to manage daily operations
 efficiently
